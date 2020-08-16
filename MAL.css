@@ -7,7 +7,7 @@
 .td2,
 #grand_totals,
 #copyright {
-  background: rgba(33, 33, 33, 1) !important;
+  background: rgba(33, 33, 33, 0.5) !important;
 }
 
 /* LIST BACKGROUND COLOR AND OPACITY - end */
@@ -17,4 +17,5 @@ body {
   background-image: url(https://i.imgur.com/0yYwYJb.jpg) !important;
   background-repeat: no-repeat;
   background-position: center center;
+  background-attachment: fixed;
 }
