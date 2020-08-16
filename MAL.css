@@ -7,7 +7,9 @@
 #status-menu, /* watching categories */
 #footer-block, /* copyright */
 .list-unit .list-status-title, /* current category */
-.list-table .list-table-header .header-title /* table columns names */ {
+.list-table .list-table-header .header-title, /* table columns names */ 
+.list-stats, 
+.data {
   background-color: rgba(0, 0, 0, 0) !important;
 }
 
@@ -17,12 +19,16 @@
 .list-table .list-table-header .header-title .link,
 .list-table .list-table-header .header-title .link.sort,
 .list-table .list-table-data .data a,
-.status-button {
+.status-button,
+.list-stats {
   color: rgba(250, 250, 250, 1) !important;
 }
 
-.data {
-  background-color: rgba(0, 0, 0, 0) !important;
+.all_anime,
+.watching,
+.onhold,
+.dropped {
+  display: none !important;
 }
 
 body {
