@@ -1,5 +1,15 @@
 /* MyAnimeList CSS by TheForgotten */
 
+/* LIST BACKGROUND COLOR AND OPACITY - begin */
+
+.category_totals,
+.td1,
+.td2,
+#grand_totals,
+#copyright {
+  background: rgba(33, 33, 33, 1) !important;
+}
+
 /* LIST BACKGROUND COLOR AND OPACITY - end */
 
 body {
