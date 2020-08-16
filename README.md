@@ -1,2 +1,1 @@
-# my_anime_list
-CSS necessary for my MAL 
+# [MyAnimeList](https://myanimelist.net/animelist/TheForgottened)
