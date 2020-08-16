@@ -1,46 +1,6 @@
 /* MyAnimeList CSS by TheForgotten */
 
-@\import "https://malscraper.azurewebsites.net/covers/auto/presets/dataimagelinkafter";
-
-/* HOVERING PREVIEW PICS - begin */
-
-/* COVER SIZE */
-.data.image a:after {
-  width: 200px;
-  height: 300px;
-}
-
-/* COVER POSITION */
-.data.image a:after {
-  position: fixed;
-  top: 1%;
-  left: calc(50% - 750px);
-}
-
-/* OTHER CODES */
-.data.image a:after {
-  content: "";
-  display: block !important;
-  background-color: rgba(0, 0, 0, 0.3);
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-  background-size: cover;
-  border: 1px solid #ffffff;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.7);
-  visibility: hidden;
-  opacity: 0;
-  transition: opacity 0.8s linear, margin-left 0.5s ease,
-    transform 1s ease-in-out;
-  z-index: 5;
-}
-
-.list-table .list-table-data:hover .data.image a:after {
-  visibility: visible;
-  opacity: 1;
-  transition: 0.3s ease-out;
-}
-
-/* HOVERING PREVIEW PICS - end */
+@import "https://malscraper.azurewebsites.net/covers/auto/presets/dataimagelinkafter";
 
 /* LIST BACKGROUND COLOR AND OPACITY - begin */
 
