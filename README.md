@@ -1,1 +1,1 @@
-# [MyAnimeList](https://myanimelist.net/animelist/TheForgottened)
+![MyAnimeList](https://myanimelist.net/img/pc/ownlist/logo_mal.png)
