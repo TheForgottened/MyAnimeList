@@ -1,1 +1,3 @@
-![MyAnimeList](https://myanimelist.net/img/pc/ownlist/logo_mal.png)
+```diff
+@@ # Checkout my [MyAnimeList](https://tinyurl.com/WeebForgotten). @@
+```
