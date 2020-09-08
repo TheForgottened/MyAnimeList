@@ -1,1 +1,1 @@
-# Checkout my [MyAnimeList](https://tinyurl.com/WeebForgotten).
+# Check out my [MyAnimeList](https://tinyurl.com/WeebForgotten).
